@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Test</title>
+	</head>
+	<body>
+<<<<<<< HEAD:lecture1/index.html
+		Hello, world!
+		Here is a new feature!
+	</body>
+</html>S
+=======
+		Hello, world! Hello again! Hello Hello Hello!
+	</body>
+</html>
+>>>>>>> 744c76171e789c3c9a24ba2042c379ba6c31d7db:hello.html
